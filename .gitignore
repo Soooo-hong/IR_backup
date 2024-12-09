@@ -1,0 +1,6 @@
+intelligent_robot/datasets/*
+intelligent_robot/pytorch_openpose/*
+intelligent_robot/sam2/*
+intelligent_robot/sapiens/*
+intelligent_robot/VideoMAEv2/*
+intelligent_robot/new_lora.pth
